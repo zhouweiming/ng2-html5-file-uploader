@@ -1,5 +1,7 @@
 # ng2-html5-file-uploader-component
 
+> 基于`angular2`的html5文件上传组件
+
 说明：
 
 1. 基于 https://github.com/fex-team/webuploader ，仅使用了html5的部分。
